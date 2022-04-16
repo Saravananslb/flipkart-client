@@ -1,0 +1,37 @@
+.signin-text {
+    font-weight: 500;
+    cursor: pointer;
+    color: #fc8019;
+}
+
+.privacy-text {
+    font-weight: 500;
+    padding: 10px;
+}
+
+.signin-left {
+    background-color: #2874f0;
+    color: #ffffff;
+    /* padding: 10px; */
+}
+
+.signin-left div {
+    padding: 20px;
+}
+
+.signin-right {
+    background-color: #ffffff;
+}
+
+.signin-right div {
+    padding-left: 10px;
+}
+
+.existing-user {
+    border: 1px solid #e2dfdf;
+    line-height: 180%;
+    text-align: center;
+    color: #2874f0;
+    background-color: #fff;
+    margin-top: 16px;
+}
